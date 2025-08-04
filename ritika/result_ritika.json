@@ -1,0 +1,203 @@
+{
+  "data": {
+    "hospital": {
+      "name": "City Care Hospital",
+      "registration_number": "",
+      "address": "123, Main Road, Delhi, 11001",
+      "city": "Delhi",
+      "state": "",
+      "pin": "",
+      "email": "info@citycarehospital.com",
+      "phone": "+9111 2345 6789"
+    },
+    "doctor": {
+      "name": "",
+      "registration_number": "",
+      "department": "Nephrology",
+      "designation": "Consultant Nephrologist",
+      "qualification": "",
+      "email": "",
+      "phone": ""
+    },
+    "patient": {
+      "name": "Vikram Singh",
+      "dob": "March 15, 1964",
+      "address": "45, Green Park Colony, Delhi, 11016",
+      "city": "Delhi",
+      "state": "",
+      "pin": "11016",
+      "tpa_id": "INS-987654321",
+      "employee_id": "",
+      "company_name": "ABC Technologies Pvt. Ltd.",
+      "pan_card": "ABCPS1234E",
+      "aadhar_card": "1234-5678-9012",
+      "phone": "",
+      "email": ""
+    },
+    "claim": {
+      "doa": "October 10,2024",
+      "dod": "",
+      "total_claimed_amount": "69,900INR"
+    },
+    "invoices": [
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Laboratory Tests",
+        "bill_category": "Routine lab",
+        "amount": "1,500",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "1",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Radiology",
+        "bill_category": "Imaging for",
+        "amount": "1,000",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "1",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Nursing Care",
+        "bill_category": "Daily Monitoring",
+        "amount": "9,500",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "10",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Consultations",
+        "bill_category": "Specialist consultation",
+        "amount": "1,500",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "1",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Supplies",
+        "bill_category": "IV therapy and additional supplies",
+        "amount": "500",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "1",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Medications",
+        "bill_category": "Antihypertensives",
+        "amount": "2,400",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "10",
+        "remarks": ""
+      },
+      {
+        "invoice_date": "October 10,2024",
+        "bill_group": "Room Charges",
+        "bill_category": "",
+        "amount": "39,000",
+        "bill_number": "",
+        "discount": "",
+        "quantity": "",
+        "remarks": ""
+      }
+    ],
+    "medicalDetails": {
+      "dischargeType": "Discharged",
+      "patientAddress": {
+        "address": "45, Green Park Colony, Delhi, 11016",
+        "city": "Delhi",
+        "state": "",
+        "pinCode": "11016"
+      },
+      "opd_details": {
+        "reportingComplaint": [
+          "Emergency admission for severe fatigue and fluid retention."
+        ],
+        "diagnosis": [
+          "Acute exacerbation of chronic kidney disease, fluid overload, and possible congestive heart failure due to poor kidney function."
+        ],
+        "investigations": [
+          "",
+          ""
+        ],
+        "pharmacy": [
+          {
+            "name": "",
+            "dosageFrequencyPerDay": 0,
+            "dosagefrequencyTotalDays": 0,
+            "count": 0
+          },
+          {
+            "name": "",
+            "dosageFrequencyPerDay": 0,
+            "dosagefrequencyTotalDays": 0,
+            "count": 0
+          }
+        ]
+      },
+      "Patient_bankinfo": {
+        "bank_name": "",
+        "account_number": "",
+        "bank_address": "",
+        "ifsi_code": ""
+      },
+      "medicalhistory": {
+        "Disease1": "Chronic Kidney Disease (CKD), Stage 5",
+        "Disease2": "Diabetes Mellitus Type 2"
+      },
+      "current_medications": {
+        "Medication1": {
+          "name": "",
+          "dosageFrequencyPerDay": 0,
+          "dosagefrequencyTotalDays": 0,
+          "count": 0
+        }
+      },
+      "allergies": {},
+      "diagnosis": [
+        {
+          "name": "Acute Exacerbation of Chronic Kidney Disease",
+          "icd": "E14.9"
+        },
+        {
+          "name": "Fluid Overload",
+          "icd": "I50.9"
+        },
+        {
+          "name": "Congestive Heart Failure",
+          "icd": "I50"
+        }
+      ],
+      "symptoms": [
+        "Severe fatigue",
+        "Fluid retention"
+      ],
+      "treatment_taken": ""
+    },
+    "room_invoice": [
+      {
+        "room_type": "",
+        "room_category": "",
+        "start_date": "October 10,2024",
+        "end_date": "October 20, 2024",
+        "rate": "",
+        "quantity": "",
+        "discount": "",
+        "total_days": "11",
+        "total_room_amount": "39,000"
+      }
+    ]
+  },
+  "message": "Success",
+  "success": true
+}

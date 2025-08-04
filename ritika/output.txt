@@ -1,0 +1,253 @@
+Medical Record 1
+Patient Information
+Name: Vikram Singh
+Age: 60
+Gender: Male
+Date of Birth: March 15, 1964
+Aadhaar Card Number: 1234-5678-9012
+Residential Address: 45, Green Park Colony, Delhi, 11016
+PAN Card Number: ABCPS1234E
+Company: ABC Technologies Pvt. Ltd.
+Insurance ID: INS-987654321
+Insurance Company: HealthSecure Insurance Co.
+Insurance Type: Comprehensive Health Plan
+Hospital Information
+Hospital Name: City Care Hospital
+Address: 123, Main Road, Delhi, 11001
+Phone: +9111 2345 6789
+Email: info@citycarehospital.com
+Medical History
+KnownConditions:
+ＣｈronicKidneyDisease(ＣκD),Stage5(End-StageRenalDisease-ES
+RD)
+Hｙｐｅrtension
+Type2DiabetesMellitus
+Allergies:
+Ｓulfadrugs
+Nuts
+CurrentMedications:
+Amlodipine5mgdaily(forhypertension)
+Metformin500mgtwicedaily(fordiabetes)
+Ｃａlciuｍcarbonａtｅ(ｐｈoｓpｈａtebinder)
+Epoetinalfainjections(weeklyforanemia)
+PastSurgeriesorMajorTreatments:
+Fistulacreationfordialysis(2022）
+lroninfusiontherapy(2023)
+Out Patient Details
+Smile Designing|TeethWhitening
+THE WHITE TUSK
+Dental Implants|General Dentistry
+@/whitetuskdenal
+12110122
+Ma.Sachin Sansasre.
+281m
+R_x，
+Tab. Augmentin 625ng
+aflee
+1-0-1×5dap
+meals
+Tab. Enaflarn
+1-0-1×5days
+Tab. PanD40ng
+befoe
+1—0-0×5dla
+Adv: Hexigel gum paint
+massage
+XIweek
+1-011
+Luit
+Ph:+o8nsWeb：www.thewhitetusk.comEmailino@thhitetusk.com
+Canceled Cheque
+d
+A
+POSTGIUALI
+9123
+。
+U
+Tal M2 T4372 F FS CS
+OOL
+State Bank Of India
+ORORDER
+PAY
+7
+
+RUPEES
+调
+694
+VALIDUPIO1OLACSATNON-HOMEBRANCH
+34992672506
+SBACCOUNT
+JITENDRAKUMARCHAUDHARI
+PREFIX
+1516000018
+MULTICITY CHEQUE Payabieat PaytAlBranchesofSBI
+*17906627300226300135631
+Credit-Youtuhe
+Visit Details
+Reason for Visit: Emergency admission for severe fatigue and fluid retention.
+Symptoms: Severe fatigue, swelling in the legs, shortness of breath, and decreased
+appetite.
+Duration: Symptoms worsening over the past week.
+Date of Visit: October 10,2024
+Physical Exam Findings
+O
+Blood Pressure: 170/95 mmHg
+0
+Heart Rate: 90 bpm
+O
+Respiratory Rate: 22 bpm
+O
+Oxygen Saturation: 92% on room air
+0
+Significant lower extremity edema
+。
+Pale appearance with signs of dehydration
+Diagnosis
+Assessment: Acute exacerbation of chronic kidney disease, fluid overload, and possible
+congestive heart failure due to poor kidney function.
+Treatment/Plan
+Medications Prescribed
+。
+Amlodipine 5 mg dailly (for blood pressure management)
+O
+Furosemide 40 mg twice daily (to manage fluid overload)
+o
+Epoetin alfa 4000 units weekly (for anemia management)
+。
+Calcium carbonate with meals (to manage phosphate levels)
+Follow-Up Recommendations:
+O
+Reqular dialysis sessions at an outpatient center, three times per week
+。
+Dietary modifications to a low-sodium, low-potassium diet.
+。
+Home monitoring of blood pressure and blood glucose leyels
+。
+Scheduled follow-up appointment with the nephrologist in 1 week.
+Lab Tests and Imaging Ordered:
+。
+Complete Blood Count (CBC)
+。
+Renal Panel (BUN, Creatinine, Electrolytes)
+。
+Chest X-ray (to check for pulmonary congestion)
+Duration of Stay
+Length of Stay: 10 days in a private room for treatment.
+Medical Bills
+Unit
+Price
+Bill Category
+Bill Group
+Discount
+Total
+(INR)
+Quantity
+(INR)
+Remarks
+(INR)
+Emergency
+Admission Fee
+5,000
+Services
+1
+0
+Initial evaluation
+5,000
+and admission
+Laboratory
+CBC, Renal Panel
+1,500
+Tests
+1
+0
+Routine lab
+1,500
+Dialysis
+work
+Hemodialysis
+3,000
+Session
+3
+0
+3 sessions
+9,000
+during stay
+Medications
+Antihypertensives
+300
+10
+600
+Includes all
+2,400
+prescribed
+Radiology
+meds
+Chest X-ray
+1,000
+1
+0
+Imaging for
+1,000
+Nursing Care
+assessment
+Daily Monitoring
+1,000
+10
+500
+Daily
+9,500
+assessments
+and care
+Consultations
+Nephrologist
+1,500
+1
+0
+Specialist
+1,500
+Supplies
+consultation
+IV Fluids &
+500
+Supplies
+1
+0
+IV therapy and
+500
+additional
+supplies
+Subtotal:30,900
+Total Medical Bills：30900INR
+V
+Room Charges
+Room
+Rate per Day
+Quantity
+Discount
+Total
+Room Type
+Category
+(INR)
+(Days)
+(INR)
+(INR)
+Private
+Deluxe
+4,000
+10
+1,000
+39,000
+Room
+
+Overall Bill Summary
+Total Medical Bills: 30,900
+Total RoomCharges:39,000
+Grand Total:69,900INR
+Doctor Information
+Doctor Name: Dr. Priya Mehta
+Designation: Consultant Nephrologist
+Medical Registration Number: MCl-1234567
+Department: Nephrology
+Physician's Signature: Dr. Priya Mehta
+Date: October 20, 2024
+Contact: City Care Hospital, Nephrology Department
